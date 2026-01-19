@@ -34,24 +34,9 @@ OpenGFW Mini-SOC là một dự án thực hành nhằm:
 ---
 
 ## Kiến trúc tổng thể
-[ Attacker (Kali Linux) ]
-            |
-            v
-      [ OpenGFW ]
-            |
-            v
-     [ Suricata IDS/IPS ]
-            |
-            v
-     [ Victim Servers ]
-        - Web App
-        - Linux Services
-            |
-            v
-        [ Wazuh SIEM ]
-        - Log
-        - Alert
-        - Dashboard
+[ Attacker (Kali Linux) ] → [ OpenGFW Firewall ] → [ Suricata IDS/IPS ] → 
+[ Victim Servers (Web App, Linux Services) ] → [ Wazuh SIEM (Log, Alert, Dashboard) ]
+
 
 ## Kịch bản tấn công
 
