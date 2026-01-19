@@ -1,6 +1,6 @@
-# OpenGFW Mini-SOC (Personal Project)
+# OpenGFW Mini-SOC
 
-> Dự án cá nhân mô phỏng **Security Operations Center (SOC)** thu nhỏ, tập trung vào **giám sát – phát hiện – phản ứng sự cố an ninh mạng** bằng các công cụ mã nguồn mở.
+> Dự án mô phỏng **Security Operations Center (SOC)** thu nhỏ, tập trung vào **giám sát – phát hiện – phản ứng sự cố an ninh mạng** bằng các công cụ mã nguồn mở.
 
 ---
 
