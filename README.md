@@ -85,6 +85,6 @@ OpenGFW Mini-SOC là một dự án thực hành nhằm:
 
 ## ⚠️ Lưu ý
 
-Dự án phục vụ mục đích học tập & nghiên cứu cá nhân.
-Không khuyến nghị triển khai trực tiếp trên môi trường production.
+- Dự án phục vụ mục đích học tập & nghiên cứu cá nhân.
+- Không khuyến nghị triển khai trực tiếp trên môi trường production.
 
